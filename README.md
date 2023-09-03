@@ -1,16 +1,27 @@
-# Microsoft-365-Fundamentals
+# Microsoft <image src="https://github.com/deciocferreira/Microsoft-365-Fundamentals/assets/12403699/fb560dff-c29c-41eb-b9d4-14a2d40c0f99" width="80" height="80">
 
-![image](https://github.com/deciocferreira/Microsoft-365-Fundamentals/assets/12403699/764412be-31a0-478c-b25e-87805f0de935)
+## *Certificação 365 Fundamentals MS-900*
 
-![image](https://github.com/deciocferreira/Microsoft-365-Fundamentals/assets/12403699/52eeae8f-9a70-4c33-a62a-b359808d49a5)
+<image src="https://github.com/deciocferreira/Microsoft-365-Fundamentals/assets/12403699/8e40d107-f89c-499f-8c6f-8ab567dbbfc5" width="150" height="150">
 
-Windows 365 - Ambiente de computador SAS
+Se você for um usuário empresarial, administrador ou estiver se preparando para sua carreira técnica, esta certificação oferece a oportunidade de se qualificar como um evangelista de nuvem. Além de validar seu conhecimento sobre as funcionalidades do Microsoft 365, obter essa certificação deixa claro para sua organização que você entende os benefícios da adoção de serviços de nuvem, os conceitos básicos de um modelo de nuvem SaaS (Software como Serviço) e o valor da implementação de serviços de nuvem do Microsoft 365.
 
-![image](https://github.com/deciocferreira/Microsoft-365-Fundamentals/assets/12403699/60eef129-ac2a-4722-a034-b52a8984cd4d)
+A certificação Microsoft 365 Certified: Fundamentals pode ser uma ótima opção para você, caso queira:
 
-OneDrive X SharePoint
+- Demonstrar conhecimentos básicos sobre os serviços de nuvem, como práticas padrão, considerações e benefícios.
+- Mostrar a fluência em soluções de SaaS; especialmente em ofertas da Microsoft 365.
+- Aumentar a familiaridade com as opções de serviço de nuvem da Microsoft 365 disponíveis no momento.
 
-OneDrive = arquivos pessoais
-SahrePoint = arquivos de corporações ou equipes
+É recomendável ter familiaridade com desafios comuns de TI, como gerenciamento de licenças Enterprise e gerenciamento de plano de suporte.
+ 
+CERTIFICAÇÃO DE CONCEITOS BÁSICOS
 
-Microsoft Tenant = Serviço que reune/contém todas as informações da conta (Subscription)
+Microsoft 365 Certified: Fundamentals
+Habilidades medidas:
+- Descrever os conceitos da nuvem
+- Descrever aplicativos e serviços do Microsoft 365
+- Descrever a segurança, a conformidade, a privacidade e a confiança no Microsoft 365
+- Descrever os preços, o licenciamento e o suporte do Microsoft 365
+
+Referências:
+https://learn.microsoft.com/pt-br/certifications/microsoft-365-fundamentals/?ocid=cmm8f3g1kvl&mkt_tok=MTU3LUdRRS0zODIAAAGN5f7agzmzxwE8EHJs7XYrABD7hLF18TfPiiJ23VKZ7XbMmwhVUmbHoeABWLAqdcVhd0Wc9SbwQG_DDHOsQ2m691hct-Ef-ch-6NsS572q5zvkUuB_TDLlGw
